@@ -1,0 +1,1 @@
+An example workflow for training a model with Python in a Jupyter notebook and then passing the model to a Rust script to serve predictions.
